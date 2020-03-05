@@ -36,7 +36,7 @@ out_name = out_name+'.json'
 #print("Do we want to manually select your station(s) or automatically grab all stations that fall within a radius?")
 #api_key = input("What is our Synoptic labs API key?': ")
 #I just hard coded the api token since this won't change for me....
-api_key = '&token='+'364bb29bcee44fc8a306d55b7a048a49'
+api_key = '&token='+'YOUR KEY HERE'
 
 print("")
 print("")
